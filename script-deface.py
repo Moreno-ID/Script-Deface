@@ -2,14 +2,17 @@
 #######################
 #  http://fb.com/moreno.id  #
 #######################
-mess = """--------------------------------------------
-|            Script Deface                 |
-|            Author: GUS10N                |
-|            FB    : Moreno ID             |
---------------------------------------------"""
+mess = """~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' | lolcat
+'| Name         : GUS10N                                |' | lolcat
+'| Facebook     : Moreno ID                             |' | lolcat
+'| Instagram    : @moreno__id                           |' | lolcat
+'| Github       : https://github.com/Moreno-ID          |' | lolcat
+'| WhatsApp     : +6285332814651                        |' | lolcat
+'| Team         : NoTeam[NeedTeam]                      |' | lolcat
+'| Thanks To    : ALLAH S.W.T                           |' | lolcat
+'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' | lolcat
 
 print mess
-print "Created by GUS10N"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
